@@ -1,1 +1,1 @@
-# svelte---Mi-primero-app
+# svelte-primer-app
